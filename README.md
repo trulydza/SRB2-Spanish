@@ -1,10 +1,10 @@
-# Sonic Robo Blast 2 en Español 🇪🇸
+# Sonic Robo Blast 2 en Español
 
 Portal principal y centro de distribución de la traducción y recompilación al español de **Sonic Robo Blast 2** (v2.2.15) para **Windows**, **Linux** y **Android**.
 
 ---
 
-## 🎯 Sobre el Proyecto
+## Sobre el Proyecto
 
 A diferencia de los mods tradicionales basados en scripts de Lua o SOC, esta adaptación está realizada **directamente en el código fuente C del motor**.
 
@@ -14,19 +14,19 @@ A diferencia de los mods tradicionales basados en scripts de Lua o SOC, esta ada
 
 ---
 
-## 🚀 Plataformas Disponibles y Enlaces
+## Plataformas Disponibles y Enlaces
 
 Selecciona tu plataforma para acceder a su repositorio específico, instrucciones detalladas de instalación y descargas:
 
 | Plataforma | Repositorio Oficial | Descargas / Releases | Contenido y Características |
 | :--- | :--- | :--- | :--- |
-| **🪟 Windows** (64-bit) | [**SRB2-Spanish-Recomp**](https://github.com/trulydza/SRB2-Spanish-Recomp) | [Última versión](https://github.com/trulydza/SRB2-Spanish-Recomp/releases/latest) | Ejecutable compilado de 64 bits (`srb2win_es.exe`), DLLs modernas actualizadas y lanzador directo `Jugar_online.bat`. |
-| **🐧 Linux** (64-bit) | [**SRB2-Spanish-Recomp-Linux**](https://github.com/trulydza/SRB2-Spanish-Recomp-Linux) | [Última versión](https://github.com/trulydza/SRB2-Spanish-Recomp-Linux/releases/latest) | Binario nativo ELF (`srb2linux_es`), paquete comprimido `.tar.gz` y script lanzador `Jugar_online.sh` compatible con Arch, CachyOS, Debian, Ubuntu y Flatpak. |
-| **📱 Android** (arm64) | [**SRB2-Spanish-Recomp-Android**](https://github.com/trulydza/SRB2-Spanish-Recomp-Android) | [Última versión](https://github.com/trulydza/SRB2-Spanish-Recomp-Android/releases/latest) | Paquete instalable (`.apk`), controles táctiles virtuales en pantalla, render por hardware OpenGL ES (`gl4es`) a 60/90/120 FPS y addon gráfico integrado. |
+| **Windows** (64-bit) | [**SRB2-Spanish-Recomp**](https://github.com/trulydza/SRB2-Spanish-Recomp) | [Última versión](https://github.com/trulydza/SRB2-Spanish-Recomp/releases/latest) | Ejecutable compilado de 64 bits (`srb2win_es.exe`), DLLs modernas actualizadas y lanzador directo `Jugar_online.bat`. |
+| **Linux** (64-bit) | [**SRB2-Spanish-Recomp-Linux**](https://github.com/trulydza/SRB2-Spanish-Recomp-Linux) | [Última versión](https://github.com/trulydza/SRB2-Spanish-Recomp-Linux/releases/latest) | Binario nativo ELF (`srb2linux_es`), paquete comprimido `.tar.gz` y script lanzador `Jugar_online.sh` compatible con Arch, CachyOS, Debian, Ubuntu y Flatpak. |
+| **Android** (arm64) | [**SRB2-Spanish-Recomp-Android**](https://github.com/trulydza/SRB2-Spanish-Recomp-Android) | [Última versión](https://github.com/trulydza/SRB2-Spanish-Recomp-Android/releases/latest) | Paquete instalable (`.apk`), controles táctiles virtuales en pantalla, render por hardware OpenGL ES (`gl4es`) a 60/90/120 FPS y addon gráfico integrado. |
 
 ---
 
-## 📦 Archivos de Datos Base (`.pk3`)
+## Archivos de Datos Base (`.pk3`)
 
 Por motivos de derechos de autor (propiedad intelectual de SEGA y Sonic Team Junior sobre música, mapas y gráficos), ninguna versión distribuye empaquetados los 4 archivos comerciales del juego:
 
@@ -41,7 +41,7 @@ Por motivos de derechos de autor (propiedad intelectual de SEGA y Sonic Team Jun
 
 ---
 
-## 🎨 Addon Gráfico Cosmético (`srb2_spanish_gfx.pk3`)
+## Addon Gráfico Cosmético (`srb2_spanish_gfx.pk3`)
 
 Para disfrutar de los acentos en títulos de zonas y menús, se utiliza el complemento gráfico `srb2_spanish_gfx.pk3`. 
 - En **Windows** y **Linux**, se incluye en las descargas dentro de la carpeta `addons/` y se carga con los lanzadores `Jugar_online`.
@@ -50,13 +50,13 @@ Para disfrutar de los acentos en títulos de zonas y menús, se utiliza el compl
 
 ---
 
-## 📖 Documentación y Desarrollo
+## Documentación y Desarrollo
 
 Si te interesa la arquitectura técnica, las reglas de traducción en C, el control de anchos de fuentes o compilar desde el código fuente, consulta la [`GUIA.md`](https://github.com/trulydza/SRB2-Spanish-Recomp/blob/main/GUIA.md) en el repositorio central de desarrollo.
 
 ---
 
-## 👥 Créditos
+## Créditos
 
 - **Traducción, adaptación y ports:** Daza ([@trulydza](https://github.com/trulydza))
 - **Juego base y motor original:** Sonic Team Junior ([STJr/SRB2](https://github.com/STJr/SRB2))
