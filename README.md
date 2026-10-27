@@ -50,6 +50,21 @@ Para disfrutar de los acentos en títulos de zonas y menús, se utiliza el compl
 
 ---
 
+## Extras
+
+### Mystic Realm Community Edition (MRCE) en Español
+
+Adaptación y traducción al español de la expansión **Mystic Realm Community Edition**:
+
+- **Nombres de Zonas y Niveles**: Traducción de los nombres de etapas, actos, subtítulos de misiones y secciones de selección de nivel.
+- **Gráficos e Interfaz del HUD**: Elementos visuales del HUD místico y marcadores de zona adaptados al español (`TIEMPO`, `ANILLOS`, `ESCUDO` / `GUARDIA`, carteles de etapa).
+- **Intermisión y Menús**: Pantallas de resultados al completar niveles, menú de pausa e intermisiones con formato en español.
+- **Textos de Jugabilidad**: Adaptación de los mensajes en pantalla para habilidades especiales, santuarios místicos y recolección de esmeraldas.
+
+Puedes descargar el complemento traducido desde la sección de [Releases de Extras](https://github.com/trulydza/SRB2-Spanish/releases/tag/mrce-es).
+
+---
+
 ## Documentación y Desarrollo
 
 Si te interesa la arquitectura técnica, las reglas de traducción en C, el control de anchos de fuentes o compilar desde el código fuente, consulta la [`GUIA.md`](https://github.com/trulydza/SRB2-Spanish-Recomp/blob/main/GUIA.md) en el repositorio central de desarrollo.
